@@ -1,0 +1,6 @@
+{
+  "name": "My Student Learning",
+  "description": "Mobile ed-tech learning app with exam batches, 3x3 feature grid, study materials, and interactive daily quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
